@@ -2,10 +2,6 @@
  
 Get started with Android + Kotlin JSON & Retrofit with this simple starter project
 
-* API URL -: https://tutorialsapi.herokuapp.com/api/
-//Hitting this endpoint will give you a whitelabel error - it does not have a fallback. Use the complete endpoints below instead
-
-# Recyclerview-JSON-Retrofit
 * View JSON Response products in a recyclerview via Retrofit API call
 * Product: https://tutorialsapi.herokuapp.com/api/products
 * You can view the JSON response by hitting the 'products' endpoint
